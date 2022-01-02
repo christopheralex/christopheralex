@@ -1,5 +1,5 @@
-### Hi There 👋
-
+### About me 
+- 👋 Hi There, I'm Christopher Alexander. You can call me Chris. 
 - 🔭 I’m currently working on: Structured and Unstructured data sciene problems.
 - 🌱 I’m currently learning: Pursuing my Masters in Data Science at University of British Columbia
 - 👯 I’m looking to collaborate on: Any complex data science problem.
@@ -9,8 +9,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Explains most situations in life with an example as simple as object A and B.
 
-###### Academic Qualifications and Work experience -
+##### Academic Qualifications and Work experience -
 - Master of Data Science Candidate, Univeristy of British Columbia, Vancouver, Canada, 2021-2022
 - Data scientist, Marlabs Innovations Pvt Ltd, India, 2019-2021
 - Post graduate program in Big Data Analytics and optimization, INSOFE, India, 2018-2019
 - B.E. Computer Science, CMR Institute of Technology, Visvesvaraya Technological University, Bangalore, India, 2014-2018
+
+##### Projects - 
+- Contraceptive Usage predictor | 2021 | [Link](https://github.com/christopheralex/contraceptive_method_predictor?organization=christopheralex&organization=christopheralex)
