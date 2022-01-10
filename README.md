@@ -24,4 +24,7 @@
   Built and evaluated Random Forest Algorithm to predict the claim size of an insurer which is categorized into 3 levels.
 - 20 News Group Dataset | 2019 |  <br />
   Successfully built and evaluated a ML model for text/Document classification using big data concepts Kafka, Structured Streaming and Spark ML.
+- Safety Wearable Devices | 2018 | <br />
+  Developed a safety wearable for senior citizens using IOT for monitoring various parameters with location of the elderly using a mobile application.
+
 
