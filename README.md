@@ -17,6 +17,7 @@
 
 ##### Projects - 
 - Contraceptive Usage predictor | 2021 | [Link](https://github.com/christopheralex/contraceptive_method_predictor?organization=christopheralex&organization=christopheralex) 
+- Suspicious Report prediction and salesPerson segmentation | 2019 | [Link](https://github.com/christopheralex/Suspicious_report_prediction)
 - Coronary Heart Disease Dataset | 2019 | <br /> 
   Successfully built and evaluated various ML models to predict how likely an individual going to severe from a coronary heart disease. The process involved acquiring domain knowledge, data analysis, data preprocessing, model building, and model selection based on evaluation metrics.
 - Insurance Claim Dataset | 2019 | <br />
