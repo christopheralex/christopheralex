@@ -16,6 +16,8 @@
 - B.E. Computer Science, CMR Institute of Technology, Visvesvaraya Technological University, Bangalore, India, 2014-2018
 
 ##### Projects - 
+- airpyllution/rpyllution | 2021 | [Python Link](https://github.com/UBC-MDS/airpyllution), [R link](https://github.com/UBC-MDS/rpollution) <br />
+  A Python/R package for visualizing or obtaining future, historic and current air pollution data using the OpenWeather API.
 - Contraceptive Usage predictor | 2021 | [Link](https://github.com/christopheralex/contraceptive_method_predictor?organization=christopheralex&organization=christopheralex) 
 - Suspicious Report prediction and salesPerson segmentation | 2019 | [Link](https://github.com/christopheralex/Suspicious_report_prediction)
 - Coronary Heart Disease Dataset | 2019 | <br /> 
