@@ -19,6 +19,7 @@
 - `airpyllution/rpyllution | 2021 |` [Python Link](https://github.com/UBC-MDS/airpyllution), [R link](https://github.com/UBC-MDS/rpollution) <br />
   A Python/R package for visualizing or obtaining future, historic and current air pollution data using the OpenWeather API.
 - `Contraceptive Usage predictor | 2021 |` [Link](https://github.com/christopheralex/contraceptive_method_predictor?organization=christopheralex&organization=christopheralex) 
+- `Image Segmentation for Covid 19 CT scans | 2021`: Created a Proof of concept to identify Covid 19 patches in the lung CT scans using U-net architecture.
 - `Automated ML and Deep learning application | 2019 - 2021` <br />
   Worked on an Automated ML product “Madvisor”, developed autoML feature of the product which provides insights given any dataset, integrated TensorFlow deep learning for structured datasets in the product. Converted the whole code base from python 2 to python 3. Code base optimizations for performance and multicore usage.
 - `Suspicious Report prediction and salesPerson segmentation | 2019 |` [Link](https://github.com/christopheralex/Suspicious_report_prediction)
