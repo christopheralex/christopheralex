@@ -9,13 +9,13 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Explains most situations in life with an example as simple as object A and B.
 
-##### Academic Qualifications and Work experience -
+#### Academic Qualifications and Work experience -
 - Master of Data Science Candidate, Univeristy of British Columbia, Vancouver, Canada, 2021-2022
 - Data scientist, Marlabs Innovations Pvt Ltd, India, 2019-2021
 - Post graduate program in Big Data Analytics and optimization, INSOFE, India, 2018-2019
 - B.E. Computer Science, CMR Institute of Technology, Visvesvaraya Technological University, Bangalore, India, 2014-2018
 
-##### Projects - 
+#### Projects - 
 - `airpyllution/rpyllution | 2021 |` [Python Link](https://github.com/UBC-MDS/airpyllution), [R link](https://github.com/UBC-MDS/rpollution) <br />
   A Python/R package for visualizing or obtaining future, historic and current air pollution data using the OpenWeather API.
 - `Contraceptive Usage predictor | 2021 |` [Link](https://github.com/christopheralex/contraceptive_method_predictor?organization=christopheralex&organization=christopheralex) 
@@ -31,5 +31,20 @@
   Successfully built and evaluated a ML model for text/Document classification using big data concepts Kafka, Structured Streaming and Spark ML.
 - `Safety Wearable Devices | 2018 |` <br />
   Developed a safety wearable for senior citizens using IOT for monitoring various parameters with location of the elderly using a mobile application.
+
+#### Work experience 
+- Marlabs Innovations Private Limited | Bangalore | India | 2019 – 2021 
+    -	SDE 2 - Data Scientist 
+          - Worked on Automated Machine Learning platform, Databricks, Proof of concepts for client procurement and Project management.
+
+- Netgear | Bangalore | India | 2018
+    -	Graduate Trainee engineer (Intern)
+          - Worked on feature enhancements and maintenance of cloud-based networking switches and routers through REST and SOAP API’s
+
+#### CERTIFICATIONS
+- Introduction to Cloud Computing on Amazon AWS | Udemy | 2021
+- Python REST APIs with Flask, Docker, MongoDB, and AWS | Udemy | 2020
+- Dev-ops Fundamentals CI/CD with AWS, Docker, Ansible, Jenkins | Udemy | 2020
+- Completed Foundation Program of Infosys Campus Connect | Infosys | 2018
 
 
