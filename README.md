@@ -16,6 +16,8 @@
 - B.E. Computer Science, CMR Institute of Technology, Visvesvaraya Technological University, Bangalore, India, 2014-2018
 
 #### Projects - 
+- `spotify-explorer-py | 2022 |` [Link](https://github.com/UBC-MDS/spotify-explorer-py) <br />
+  A Spotify exploration app for music enthusiasts. The app helps you discover interesting trends in Spotify music popularity across various features such as genres, danceability, loudness, etc. Developed and deployed using Heroku. 
 - `airpyllution/rpyllution | 2021 |` [Python Link](https://github.com/UBC-MDS/airpyllution), [R link](https://github.com/UBC-MDS/rpollution) <br />
   A Python/R package for visualizing or obtaining future, historic and current air pollution data using the OpenWeather API.
 - `Contraceptive Usage predictor | 2021 |` [Link](https://github.com/christopheralex/contraceptive_method_predictor?organization=christopheralex&organization=christopheralex) 
